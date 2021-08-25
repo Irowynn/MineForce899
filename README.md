@@ -1,7 +1,5 @@
-
-**MineForce899/MineForce899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome to my ~~boring~~ **very interesting** github page
+Here is just completed template of the github Readme.md
 
 - 🔭 I’m currently working on RedCraft
 - 🌱 I’m currently learning Java
